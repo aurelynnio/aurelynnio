@@ -1,4 +1,4 @@
-# Hi there, I'm Aurelynnio 👋
+# Hi there, I'm Sali 👋
 
 > Software Engineering student from Vietnam 🇻🇳, focused on backend development and practical web services.
 
