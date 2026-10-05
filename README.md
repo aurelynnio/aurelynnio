@@ -1,4 +1,4 @@
-# Hi there, I'm Sali 👋
+# Hi there 👋
 
 > Software Engineering student from Vietnam 🇻🇳, focused on backend development and practical web services.
 
